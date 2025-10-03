@@ -108,7 +108,19 @@ This project reflects a new era of data visualization—where AI, design, and se
 
 Whether you're pitching to stakeholders or refining internal dashboards, this framework helps you turn raw data into compelling, secure visual narratives.
 
-Here’s a clean and professional **Author** section you can add to your `README.md`:
+---
+
+## ⚠️ Important Notice
+
+The HTML webpage included in this repository is specifically designed to visualize the sample JSON file provided here. It will only work correctly with that dataset.
+
+If you want to visualize a different dataset:
+
+- 🛠️ You must generate a new HTML webpage using the same workflow outlined above.
+- 📄 Provide the first 2–3 rows of your new JSON file to the AI.
+- 🎨 Customize the layout and styling as needed via prompt engineering.
+
+> This ensures accurate rendering, secure handling, and tailored visualization for each unique dataset.
 
 ---
 
